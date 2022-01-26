@@ -1,1 +1,1 @@
-# RMA-LV2
+# Inspiring person mini app u Kotlinu

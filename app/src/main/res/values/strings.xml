@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InspiringPersons</string>
+    <string name="NAME_EXTRA">toMain</string>
+    <string name="et_name_hint">Name</string>
+    <string name="et_description_hint">Description</string>
+    <string name="btn_add_text">ADD PERSON</string>
+    <string name="fab_text">NEW</string>
+</resources>
